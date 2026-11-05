@@ -18,9 +18,10 @@
     pip3 install scipy==1.11.4
   
 ## Clone commander repo
-    git clone https://github.com/PCrnjak/PAROL-commander-software.git
+    git clone https://github.com/Source-Robotics/PAROL-commander-software.git
 
-## To run go to the install directory and
+## To run, go to the GUI/files folder of the clone and start the commander
+    cd PAROL-commander-software/GUI/files
     python3 Serial_sender_good_latest.py
 
 ## If using Visual Studio code
@@ -32,4 +33,4 @@
 Press connect multiple times
 
 ## Troubleshooting
-Check In https://github.com/PCrnjak/PAROL-commander-software/tree/main/Working%20dependency what python module versions were used on working systems
+Check In https://github.com/Source-Robotics/PAROL-commander-software/tree/main/Working%20dependency what python module versions were used on working systems
